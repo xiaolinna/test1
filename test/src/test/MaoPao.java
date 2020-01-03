@@ -32,7 +32,8 @@ public class MaoPao {
 //		
 //		System.out.println(Arrays.toString(split));
    
-		
+//		nihao  w buhao a   
+		//a w s l 
 		Integer[] array = {5,1,3};
 		int a = 0;
 		for (int i = 1; i < array.length; i++) {
