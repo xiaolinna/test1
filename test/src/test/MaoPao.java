@@ -10,8 +10,6 @@ public class MaoPao {
 //		String string = new Scanner(System.in).nextLine();
 //		
 //		String[] splitString = string.split(",");
-////		Integer[] split = {5,3,4,9,1};
-////		System.out.println(split[0]);
 //		
 //		Integer[] split = new Integer[splitString.length];
 //		for (int i = 0; i < splitString.length; i++) {
